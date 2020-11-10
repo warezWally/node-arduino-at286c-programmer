@@ -1,0 +1,7 @@
+*
+!*.ino
+!*.js
+!*.json
+!*.md
+
+!*.gitignore
